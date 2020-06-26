@@ -53,3 +53,6 @@ hr {
 	font-size: 20px;
 	font-weight: bold;
 }
+#main-content {
+	position: relative;
+}
